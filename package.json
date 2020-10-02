@@ -1,0 +1,27 @@
+{
+  "name": "express_knex_postgresql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfaiz-id/express_knex_postgresql.git"
+  },
+  "keywords": [
+    "Buat API dari Express JS"
+  ],
+  "author": "Muhammad Faizal Ansyori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfaiz-id/express_knex_postgresql/issues"
+  },
+  "homepage": "https://github.com/mfaiz-id/express_knex_postgresql#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.6",
+    "postgres": "^1.0.2"
+  }
+}
